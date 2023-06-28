@@ -1,0 +1,20 @@
+{
+  "name": "endo-meeting-follow-along",
+  "version": "1.0.0",
+  "description": "",
+  "main": "counter.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@endo/base64": "^0.2.31",
+    "@endo/daemon": "^0.2.2",
+    "@endo/far": "^0.2.18",
+    "@endo/import-bundle": "^0.3.4",
+    "@endo/stream": "^0.3.25"
+  }
+}
